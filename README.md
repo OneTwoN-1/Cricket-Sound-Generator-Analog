@@ -1,6 +1,3 @@
-# Cricket-Sound-Generator-Analog
-Electronic "chirp" synthesizer implementing a PNP-based power gating solution to synchronize dual NE555 stages without using the Reset pin.
-
 # 🦗 Cricket Sound Generator - Analog Synthesis
 
 This project implements an electronic system for the analog synthesis of a "chirp" (cricket) acoustic signal. It was developed as a semester project for the **Sisteme cu Circuite Integrate Analogice (SCIA)** course at the Technical University of Cluj-Napoca.
