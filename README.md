@@ -26,6 +26,12 @@ While the initial design was validated through transient analysis, the physical 
 ## 📊 Results
 The circuit produces stable, well-defined sound bursts. The efficiency of the Power Gating method was confirmed via oscilloscope, showing a clean transition of the audio stage power line.
 
+## 📺 Visual Documentation
+
+### Hardware Implementation
+### Working Demo
+You can see and hear the circuit in action (2.8 kHz audio frequency  with a 1.5s cadence in the video below:
+[▶️ Watch the Cricket Sound Demo](https://youtube.com/shorts/ttppmvNhKKs?feature=share)
 ## 📁 Academic Context
 > **Note:** This project was originally documented and presented in **Romanian** for academic purposes. The full technical report in Romanian is available in this repository: `Proiect_SCIA_Meteleauca_Damian.pdf`.
 
@@ -33,6 +39,5 @@ The circuit produces stable, well-defined sound bursts. The efficiency of the Po
 * **Faculty:** Electronics, Telecommunications and Information Technology (ETTI)
 * **Author:** Damian Meteleaucă
 * **Advisor:** Conf.Dr.Ing. Albert Csaba Fazakas
-
 ---
 *Developed in 2026 as part of the SCIA Coursework.*
